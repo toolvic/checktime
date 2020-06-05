@@ -1,3 +1,3 @@
 # checktime
 checktime
-0
+1
