@@ -1,1 +1,1 @@
-Khieuchien=1&&baotri=1&&
+Khieuchien=0&&baotri=1&&
